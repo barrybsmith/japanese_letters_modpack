@@ -7,7 +7,7 @@ Copyright 2023 OFG
 
 ===============
 
-Added Tsalagi Letters to Japenese Modpack
+Added Tsalagi Letters to Japenese Letters Modpack
 
 Credits: Fonts
 
