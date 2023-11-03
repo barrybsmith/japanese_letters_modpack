@@ -8,7 +8,7 @@ local tsalagi_list = {
 }
 
 for _, i in ipairs(tsalagi_list) do
-	minetest.register_node("cherokee_letters_tsalagi:tsalagi"..i, {
+	minetest.register_node("tsalagi_letters:tsalagi"..i, {
 		tiles = {i..".png"},
 		inventory_image = i..".png",
 		sunlight_propagates = true,
@@ -26,7 +26,7 @@ end
 table.remove(tsalagi_list, 1)
 
 if minetest.get_modpath("i3") then
-	i3.compress("cherokee_letters_tsalagi:tsalagi001_a", {
+	i3.compress("tsalagi_letters:tsalagi001_a", {
 		replace = "001_a",
 		by = tsalagi_list
 	})
