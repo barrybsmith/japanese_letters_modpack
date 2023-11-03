@@ -5,3 +5,6 @@ Because there are too many types of blocks, I have not set up a craft recipe.
 
 Copyright 2023 OFG
 
+===============
+
+Added Tsalagi Letters to Japenese Modpack
