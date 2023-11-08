@@ -9,6 +9,7 @@ Copyright 2023 OFG
 
 Added Tsalagi Letters to Japenese Letters Modpack
 
-Credits: Fonts
+Credits: syllabary-chart.jpg
 
 https://www.cherokeelessons.com/content/Cherokee-Language-Grammar---Cherokee-Messenger-1844-1846/syllabary-chart.jpg
+Attribution-ShareAlike 4.0 International
